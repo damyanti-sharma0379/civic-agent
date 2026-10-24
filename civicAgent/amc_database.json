@@ -1,0 +1,12 @@
+{
+  "tickets" : [ {
+    "ticket_id" : "TRACK-1001",
+    "issue_type" : "pothole",
+    "severity" : "High",
+    "area" : "Bodakdev",
+    "ward" : "Ward-12",
+    "department" : "Roads & Engineering Department",
+    "status" : "In Progress (Assigned to Field Crew)",
+    "filed_at" : "2026-10-24 10:00:00"
+  } ]
+}
